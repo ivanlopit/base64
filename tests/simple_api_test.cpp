@@ -1,7 +1,8 @@
-#include <gtest/gtest.h>
-#include <incr4k/base64/simple.h>
-
 #include <vector>
+
+#include <gtest/gtest.h>
+
+#include <incr4k/base64/simple.h>
 
 using namespace incr4k;
 

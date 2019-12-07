@@ -1,8 +1,8 @@
+#include <array>
 
 #include <gtest/gtest.h>
-#include <incr4k/base64/block.h>
 
-#include <array>
+#include <incr4k/base64/block.h>
 
 using namespace incr4k;
 
