@@ -1,3 +1,5 @@
+.vs
+
 build
-linbuild
 googletest
+linbuild
